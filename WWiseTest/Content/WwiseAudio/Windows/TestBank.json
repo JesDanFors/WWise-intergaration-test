@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Git\\Projekt file\\WWiseTest_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Git\\Projekt file\\WWiseTest_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Git\\WWise-intergaration-test\\WWiseTest\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Git\\Projekt file\\WWiseTest_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3291379323",
+    "GUID": "{80F2FFC6-3009-45B1-8FDE-48DE3214D4A6}",
+    "Language": "SFX",
+    "Hash": "3534951740",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\TestBank",
+    "ShortName": "TestBank",
+    "Path": "TestBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "4283052285",
+      "Name": "TestTone",
+      "ObjectPath": "\\Events\\Default Work Unit\\TestTone",
+      "GUID": "{0F1BB8C4-28B1-49D4-85EE-6B61BE44B737}",
+      "DurationType": "OneShot",
+      "DurationMin": "10.001333",
+      "DurationMax": "10.001333",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1043648824",
+        "Language": "SFX",
+        "ShortName": "Test_600hz_lp.wav",
+        "Path": "SFX\\Test_600hz_lp_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

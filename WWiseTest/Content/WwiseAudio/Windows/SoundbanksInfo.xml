@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Git\Projekt file\WWiseTest_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Git\Projekt file\WWiseTest_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Git\WWise-intergaration-test\WWiseTest\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Git\Projekt file\WWiseTest_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="3690994985">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3291379323" GUID="{80F2FFC6-3009-45B1-8FDE-48DE3214D4A6}" Language="SFX" Hash="3534951740">
+			<ObjectPath>\SoundBanks\Default Work Unit\TestBank</ObjectPath>
+			<ShortName>TestBank</ShortName>
+			<Path>TestBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4283052285" Name="TestTone" ObjectPath="\Events\Default Work Unit\TestTone" GUID="{0F1BB8C4-28B1-49D4-85EE-6B61BE44B737}" DurationType="OneShot" DurationMin="10.001333" DurationMax="10.001333">
+					<IncludedMemoryFiles>
+						<File Id="1043648824" Language="SFX">
+							<ShortName>Test_600hz_lp.wav</ShortName>
+							<Path>SFX\Test_600hz_lp_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

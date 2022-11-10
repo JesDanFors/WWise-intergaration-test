@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4283052285	TestTone			\Default Work Unit\TestTone	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1043648824	Test_600hz_lp	C:\Git\WWise-intergaration-test\WWiseTest\WWiseTest_WwiseProject\.cache\Windows\SFX\Test_600hz_lp_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\TestFiles\Test_600hz_lp		960192
+
