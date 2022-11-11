@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-AkAudioMixer.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Git\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\Module.AkAudioMixer.cpp.obj"
-"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\Default.rc2.res"
-/OUT:"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.lib"
+"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\Module.AkAudioMixer.cpp.obj"
+"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\Default.rc2.res"
+/OUT:"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.lib"

@@ -6,8 +6,8 @@
 /NAME:"UnrealEditor-AudiokineticTools.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Git\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.obj"
-"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.gen.cpp.obj"
-"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Default.rc2.res"
-/OUT:"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.lib"
+"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.obj"
+"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.gen.cpp.obj"
+"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Default.rc2.res"
+/OUT:"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.lib"

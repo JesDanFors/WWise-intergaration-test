@@ -1,7 +1,7 @@
-C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp
+C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp
 /I .
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AudiokineticTools\Private
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AkAudio\Classes\GTE
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AudiokineticTools\Private
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AkAudio\Classes\GTE
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MovieScene
 /I Runtime
 /I Runtime\MovieScene\Public
@@ -268,14 +268,14 @@ C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win6
 /I Editor\CurveEditor\Public
 /I Editor\EditorWidgets\Public
 /I Editor\MainFrame\Public
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\AudiokineticTools
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AudiokineticTools\Classes
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AudiokineticTools\Public
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\AkAudio
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\ThirdParty\include
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AkAudio\Classes
-/I C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AkAudio\Public
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\AudiokineticTools
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AudiokineticTools\Classes
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AudiokineticTools\Public
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Inc\AkAudio
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\ThirdParty\include
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AkAudio\Classes
+/I C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Source\AkAudio\Public
 /I Runtime\XmlParser\Public
 /I Editor\WorkspaceMenuStructure\Public
 /I Developer\SharedSettingsWidgets\Public
@@ -308,16 +308,16 @@ C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win6
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Git\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/FI"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Definitions.AudiokineticTools.h"
-/Yu"C:\Git\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Git\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-/Fo"C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.obj"
-/sourceDependencies C:\Git\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.json
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/FI"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Definitions.AudiokineticTools.h"
+/Yu"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+/Fo"C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.obj"
+/sourceDependencies C:\Forsbergsskola\Unreal\WWise-intergaration-test\Wwicetest2\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.json
 /Zc:inline
 /nologo
 /Oi
