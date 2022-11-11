@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
 	<ValidationCacheItem File="C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\Wwicetest2_WwiseProject.wproj" DateLow="1668162763" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\Wwicetest2_WwiseProject.rober.wsettings" DateLow="1668162747" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1668162442" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1668162442" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1668162442" DateHigh="0"/>
