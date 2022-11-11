@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="WWise-intergaration-test_WwiseProject" GUID="{514BE1DE-33D4-44FB-9360-6365358E67DE}" Generator="2022.1.0.7985"/>
+	<CacheRoot>../.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{0E991B01-4332-48B6-AB9D-392EF7052EF5}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="Mac"/>
+		<Platform Name="Windows" GUID="{0C59C215-C9A9-4D18-A02A-CC7BA88ECAFB}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{CBFE54F7-871C-4EC4-A7B4-236B8D67963F}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{8F734BBB-3D2B-A794-7AF7-A916321B2964}</FileHash>
+</ProjectInfo>
