@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Git\WWise-intergaration-test\Wwicetest2\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="444308101" GUID="{14FD8A72-AAD2-4EAF-9ADF-6406A8BB7481}" Language="SFX" Hash="3460699840">
+			<ObjectPath>\SoundBanks\Default Work Unit\New</ObjectPath>
+			<ShortName>New</ShortName>
+			<Path>New.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3420213438" Name="Amen" ObjectPath="\Events\Default Work Unit\Amen" GUID="{121493A8-6B69-4209-A0A7-00FD1FFD80ED}" DurationType="OneShot" DurationMin="6." DurationMax="6.">
+					<IncludedMemoryFiles>
+						<File Id="706348324" Language="SFX">
+							<ShortName>Amen.wav</ShortName>
+							<Path>SFX\Amen_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4283052285" Name="TestTone" ObjectPath="\Events\Default Work Unit\TestTone" GUID="{D4998C31-4491-482D-B462-20CB3C50E6F2}" DurationType="OneShot" DurationMin="10.001333" DurationMax="10.001333">
+					<IncludedMemoryFiles>
+						<File Id="306629583" Language="SFX">
+							<ShortName>Test_600hz_lp.wav</ShortName>
+							<Path>SFX\Test_600hz_lp_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

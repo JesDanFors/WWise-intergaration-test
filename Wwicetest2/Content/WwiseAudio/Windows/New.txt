@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3420213438	Amen			\Default Work Unit\Amen	
+	4283052285	TestTone			\Default Work Unit\TestTone	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	306629583	Testtone	C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\.cache\Windows\SFX\Test_600hz_lp_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tests\Testtone		960192
+	706348324	Amen	C:\Git\WWise-intergaration-test\Wwicetest2\Wwicetest2_WwiseProject\.cache\Windows\SFX\Amen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tests\Amen		1058528
+
